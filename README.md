@@ -45,7 +45,6 @@ isoseq3 collapse --do-not-collapse-extra-5exons --max-5p-diff 5 --max-3p-diff 5 
 
 ```
 ../stringtie2fa.py -g ../purged_hifiasm_assembly_v1.fasta -f cupcake.collapsed.gff -o cupcake.fa 
-
 ```
 5. Check the amount of sequences in cupcake.fa.mrna: 
 
