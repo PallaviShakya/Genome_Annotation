@@ -1,6 +1,6 @@
 # Genome_Annotation
 
-BRAKER3 (https://github.com/Gaius-Augustus/BRAKER) was used for the annotation of the _M. hapla_ genome. Docker was used to run BRAKER3 according to the protocols: https://hub.docker.com/r/teambraker/braker3 
+BRAKER3 (https://github.com/Gaius-Augustus/BRAKER) was used for the annotation of the _M. hapla_ VW9 genome. Docker was used to run BRAKER3 according to the protocols: https://hub.docker.com/r/teambraker/braker3 
 
 To mount the data into docker: 
 
